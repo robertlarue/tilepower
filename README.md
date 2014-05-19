@@ -28,7 +28,7 @@ Turn off VMs in Tiles 3 through 5
 ```tilepower.ps1 -vc vcenter-test -u root -p p@ssword -t '3-5' -h```
 
 Turn on VMs in Tile 0,2,4  
-```tilepower.ps1 -vc vcenter-test -u root -p p@ssword -t '0,2,4```
+```tilepower.ps1 -vc vcenter-test -u root -p p@ssword -t '0,2,4'```
 
 Turn on just Tile 1  
 ```tilepower.ps1 -vc vcenter-test -u root -p p@ssword -t 1```
