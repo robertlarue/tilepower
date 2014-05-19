@@ -4,7 +4,7 @@ tilepower
 Powershell tool for powering up or down tiles in a VMmark benchmark environment  
 Requires the VMware Powershell tool vSphere PowerCLI to be installed
 
-The program will turn on or off all the VMs within a vSphere folder titled tile[n] where n is the tile number.  
+The program will turn on or off all the VMs within a vSphere folder titled Tile[n] (case-sensitive for now) where n is the tile number.  
 The tile number can be given as:
 * single number
 * comma separated list of tile numbers
